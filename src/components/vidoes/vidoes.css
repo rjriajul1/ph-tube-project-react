@@ -1,0 +1,35 @@
+
+.card-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+
+}
+
+.img{
+   width:100%;
+   height: 150px;
+   object-fit: cover;
+}
+
+.cart-text-container{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+
+}
+.avater-img{
+    width: 70px;
+    height: 70px;
+}
+
+.verified-flex{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.title{
+    font-weight: bold;
+    font-size: 18px;
+
+}

@@ -1,0 +1,17 @@
+
+.header-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+    border-bottom: 1px solid gray;
+    padding-bottom: 20px;
+}
+
+.sort-btn{
+    background-color: red;
+    padding: 12px;
+    font-weight: bold;
+    color: white;
+    border-radius: 10px;
+}
